@@ -1,0 +1,2 @@
+Type,ID,InventoryID,Name,Category,Quantity,Price,EXPDate,InventoryStatus,InventoryCriticalCategory
+Product,3033005,1011010,Donut,Desert,200,30,2023-08-10,in inventory,Low
