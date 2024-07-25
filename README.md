@@ -1,3 +1,5 @@
+Inventory Management System - Java
+
 CREDITS:
 
 Karl Diata - Project Leader
